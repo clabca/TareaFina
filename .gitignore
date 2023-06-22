@@ -39,5 +39,4 @@ node_modules/
 /bin/
 /target/
 javawebapp-deployment.yml
-/terraform/
 terraform/.terraform/providers/registry.terraform.io/hashicorp/aws/*.exe
